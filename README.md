@@ -20,7 +20,7 @@
 
 | Платформа | Лаба | Категория |
 |---|---|---|
-| CyberDefenders | [Hammered](./cyberdefenders/hammered.md) | Log Analysis |
+| CyberDefenders | [Hammered](./Hammered/hammered.md) | Log Analysis |
 | CyberDefenders | [XLMRat](./XLMRat%20Lab/xlmrat.md) | Network Forensics / Malware Analysis |
 
 ## Цель
