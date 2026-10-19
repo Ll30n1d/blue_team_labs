@@ -3,6 +3,7 @@
 ## Информация о лабе
 
 - **Платформа:** CyberDefenders
+- **Ссылка:** [CyberDefenders — Hammered](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)
 - **Название:** XLMRat
 - **Категория:** Network Forensics / Malware Analysis
 - **Сложность:** Easy
