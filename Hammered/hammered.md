@@ -3,6 +3,7 @@
 ## Информация о лабе
 
 - **Платформа:** CyberDefenders
+- **Ссылка:** [CyberDefenders — Hammered](https://cyberdefenders.org/blueteam-ctf-challenges/hammered/)
 - **Название:** Hammered
 - **Категория:** Endpoint Forensics / Log Analysis
 - **Сложность:** Medium
