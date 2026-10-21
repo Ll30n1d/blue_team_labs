@@ -8,11 +8,13 @@
 - **Сетевая форензика** — анализ PCAP-трафика, поиск C2, извлечение payload'ов
 - **Анализ malware** — декодирование обфусцированных скриптов, работа с хешами и VirusTotal
 - **Инцидент-респонс** — восстановление цепочки атаки по уликам
+- **Threat Intelligence** — разбор фишинговых китов и OSINT по инфраструктуре атакующих
 
 ## Платформы
 
 - [CyberDefenders](https://cyberdefenders.org/)
 - [Blue Team Labs Online](https://blueteamlabs.online/)
+- [LetsDefend](https://letsdefend.io/)
 - [TryHackMe](https://tryhackme.com/) (Blue Team комнаты)
 - [Hack The Box](https://www.hackthebox.com/) (Starting Point и другие)
 
@@ -22,6 +24,8 @@
 |---|---|---|
 | CyberDefenders | [Hammered](./Hammered/hammered.md) | Log Analysis |
 | CyberDefenders | [XLMRat](./XLMRat%20Lab/xlmrat.md) | Network Forensics / Malware Analysis |
+| CyberDefenders | [GrabThePhisher](./GrabThePhisher/grabthephisher.md) | Threat Intelligence / Phishing Analysis |
+| LetsDefend | [SOC335 — CVE-2024-49138](./LetsDefend%20SOC335/letsdefend-soc335.md) | Incident Response |
 
 ## Цель
 
