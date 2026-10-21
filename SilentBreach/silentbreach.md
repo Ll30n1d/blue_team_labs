@@ -149,7 +149,7 @@ for file_name in files_to_decrypt:
 После запуска скрипта получил `IMF-Mission.pdf`. Внутри — флаг:
 
 ```
-CyberDefenders{N3v3r_eX3cuTe_F!l3$_dOwnL0ded_fr0m_M@lic10u5_$erV3r}
+CyberDefenders{flagg}
 ```
 
 ## Выводы
