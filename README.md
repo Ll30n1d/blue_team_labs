@@ -26,6 +26,7 @@
 | CyberDefenders | [XLMRat](./XLMRat%20Lab/xlmrat.md) | Network Forensics / Malware Analysis |
 | CyberDefenders | [GrabThePhisher](./GrabThePhisher/grabthephisher.md) | Threat Intelligence / Phishing Analysis |
 | LetsDefend | [SOC335 — CVE-2024-49138](./LetsDefend%20SOC335/letsdefend-soc335.md) | Incident Response |
+| CyberDefenders | [Silent Breach](./SilentBreach/silentbreach.md) | Endpoint Forensics |
 | CyberDefenders | [DanaBot](./DanaBot/danabot.md) | Network Forensics / Malware Analysis |
 
 ## Цель
